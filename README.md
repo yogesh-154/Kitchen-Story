@@ -25,4 +25,13 @@ A master list of food items available for purchase
 
 A functionality to add or remove food items
 
+
+
+![image](https://user-images.githubusercontent.com/119795285/236439777-852ce3df-1659-4f04-afcc-a7f6ae60efe4.png)
+
+
+
+![image](https://user-images.githubusercontent.com/119795285/236439861-f0d3b7a8-3648-4275-b677-4a0d60f7645a.png)
+
+
      
